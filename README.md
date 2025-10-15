@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHGZX
 - 👀 I’m interested in swimming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on China
 - 📫 How to reach me WeChat
 
